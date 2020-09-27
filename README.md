@@ -1,6 +1,6 @@
-# budgeting-thailand
+# Participatory Budgeting Thailand
 
-ร่วมกันสร้างเครื่อง (Tools) ตรวจสอบการจัดทำงบประมาณของรัฐ
+ร่วมกันสร้างเครื่องมือ (Tools) ตรวจสอบการจัดทำงบประมาณของรัฐ
 
 # Workplace
 
